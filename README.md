@@ -38,7 +38,7 @@ Include last [jQuery](http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.j
             });
         </script>
 ```
-### Step 3 in or ```<body></body>```
+### Step 3 in ```<body></body>```
 ```html
 <a class="scrollup" href="#"></a>
 ```
