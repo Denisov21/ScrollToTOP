@@ -1,0 +1,23 @@
+From 0e278a10cfbea834d8fcfe80529f7c2312fdaba9 Mon Sep 17 00:00:00 2001
+From: Denisov21 <student@alice.it>
+Date: Thu, 19 Jun 2014 19:50:01 +0200
+Subject: [PATCH] Update ScrollToTOP.css
+
+---
+ css/ScrollToTOP.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/css/ScrollToTOP.css b/css/ScrollToTOP.css
+index f3e1655..564c281 100644
+--- a/css/ScrollToTOP.css
++++ b/css/ScrollToTOP.css
+@@ -1,5 +1,5 @@
+ .scrollup {
+-    background: url("img/icon_gototop.png") no-repeat scroll 0 0 transparent;
++    background: url("../img/icon_gototop.png") no-repeat scroll 0 0 transparent;
+     bottom: 20px;
+     display: none;
+     height: 40px;
+-- 
+1.9.4.msysgit.0
+
